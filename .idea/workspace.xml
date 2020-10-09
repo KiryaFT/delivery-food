@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2de7c050-6281-4367-b7ed-bcd78a858964" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ibgO6gtPeoLu6LqBkkLCEFJmHr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\delivery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\delivery\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de7c050-6281-4367-b7ed-bcd78a858964" name="Default Changelist" comment="" />
+      <created>1602181670728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602181670728</updated>
+      <workItem from="1602181671770" duration="48000" />
+      <workItem from="1602181835805" duration="20422000" />
+      <workItem from="1602244904433" duration="5023000" />
+      <workItem from="1602250964690" duration="5866000" />
+      <workItem from="1602268709447" duration="10458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602182325945">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="588" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1602182325945" />
+    <state x="940" y="241" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602181695656">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="940" y="241" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1602181695656" />
+    <state x="682" y="150" key="SettingsEditor" timestamp="1602182080708">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="682" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1602182080708" />
+  </component>
+</project>
